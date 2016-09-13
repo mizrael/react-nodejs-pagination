@@ -1,0 +1,28 @@
+{
+  "name": "react-pagination-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "start": "node ./bin/www/main.js"
+  },
+  "author": "Davide Guida",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mizrael/react-nodejs-pagination.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.3",
+    "grunt-tslint": "^3.2.1",
+    "node-uuid": "^1.4.7",
+    "tslint": "^3.15.1",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.3"
+  }
+}
